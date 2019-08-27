@@ -4,4 +4,6 @@ Class Teacher{
 	private string addr;
 	
 	system.out.printl("这是第一个仓库里面第一次做的修改")
+
+	system.out.printl("这是第二个仓库里面第一次做的修改")
 }
